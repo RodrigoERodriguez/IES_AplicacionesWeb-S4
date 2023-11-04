@@ -1,0 +1,14 @@
+{
+  "name": "aw_actividad_rodriguezrodrigo",
+  "version": "1.0.0",
+  "description": "��#\u0000 \u0000I\u0000E\u0000S\u0000_\u0000A\u0000W\u0000-\u0000S\u00004\u0000\r\u0000 \u0000",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "five-server": "^0.3.1"
+  }
+}
